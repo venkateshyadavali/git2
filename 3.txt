@@ -1,1 +1,2 @@
 Added a file
+line added on GIT by second user
